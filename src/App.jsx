@@ -13,7 +13,7 @@ export default function App() {
       </main>
       <footer className="mt-8 bg-ink-900 py-8 text-center text-sm text-slate-400">
         <p className="font-semibold text-white">
-          Swipe<span className="text-brand-400">wire</span>
+          MP <span className="text-brand-400">Store</span>
         </p>
         <p className="mt-1 text-xs text-slate-500">
           A React + Redux Toolkit + Tailwind demo store.

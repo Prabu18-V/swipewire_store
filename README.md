@@ -1,4 +1,4 @@
-# Swipewire Store — React E-Commerce Application
+# MP Store — React E-Commerce Application
 
 A fully functional, responsive e-commerce single-page application built as the
 Front-End Developer technical task. Implements product management (CRUD), a
@@ -6,7 +6,7 @@ shopping cart, a discount/coupon system, JWT authentication, a checkout & order
 summary flow, and a responsive Tailwind UI.
 
 🔗 **Live Demo:** https://stellular-kashata-7288e4.netlify.app
-💻 **Source:** https://github.com/Prabu18-V/swipewire-store
+💻 **Source:** https://github.com/Prabu18-V/mp-store
 
 **Real backends:** Product data comes from the live
 [DummyJSON](https://dummyjson.com/products) REST API (via Axios), and
@@ -62,7 +62,7 @@ VITE_PRODUCT_API_URL=https://dummyjson.com
 
 You can **sign up** with any email + password, or use this demo account:
 
-- **Email:** `swipewire.test2@gmail.com`
+- **Email:** `mpstore.test2@gmail.com`
 - **Password:** `password123`
 
 ### Demo coupon codes

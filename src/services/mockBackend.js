@@ -237,7 +237,7 @@ const SEED_USERS = [
   {
     id: 'u1',
     name: 'Demo User',
-    email: 'demo@swipewire.com',
+    email: 'demo@mpstore.com',
     password: 'password123', // FALLBACK demo only — real passwords are bcrypt-hashed by Supabase
     role: 'admin',
   },

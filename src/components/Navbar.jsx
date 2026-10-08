@@ -56,7 +56,7 @@ export default function Navbar() {
           <Link to="/products" className="flex items-center gap-2.5 text-lg font-extrabold tracking-tight text-ink-900">
             <Logo />
             <span>
-              Swipe<span className="text-brand-600">wire</span>
+              MP <span className="text-brand-600">Store</span>
             </span>
           </Link>
 
